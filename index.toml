@@ -1,0 +1,69 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "54ce2b42a4a3a2ce500864f2502d078bce0511a96b8764970a8f593cc2467e44"
+
+[[files]]
+file = "config/iris.properties"
+hash = "efe0c30620affee4a63c94309643da1b5a10d9b411d292f1394bd233489a7334"
+preserve = true
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "f7051739fcc2f230a94416c6865864d15ef2c49621c4ae4a1ebb4ea99e9aea16"
+preserve = true
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+preserve = true
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "111b2d561ee8b1c01f0c72f1dfc393c5f477f8bc9416379dd6664cf16c387370"
+preserve = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "fb72a70cb53c63f1da4520c25c8a7d806cc1c733e827016615623b65d751852d"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "98bf81855604f95095e2dddd7212a32b240c914f1fea6ee82200b79481aa1e5f"
+metafile = true
+
+[[files]]
+file = "mods/rpg-client.jar"
+hash = "697f46a64cfdc37301881f6e8bfc7cde7a618d64c80a4e5fac3dca56fdb83196"
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "54d699d9ba85bb08b9fd3696a11c7449ea1175a118805855143e1c88fa54aa6b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "14e96b12f10a1f2920cdcec89b4d16e452bec4689e117b38b4c0f759145aaf7f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "cbb9808546870ecb0a7befebb14df0a11383b1aeafd175a77a0fc4caee44c6f2"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "624a8e4974cae64389b28e8046c3cc18a94e609a02df63f5397ec2ca0c0f7ee8"
+preserve = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "507cb3963240110bc71ed7c75cac1682e66d3609536b0bc5ef90a01db3cce21f"
+metafile = true

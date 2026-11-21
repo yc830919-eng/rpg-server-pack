@@ -1,0 +1,13 @@
+name = "Plasmo Voice"
+filename = "plasmovoice-fabric-26.3-2.2.0-beta.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/9W3CZypi/plasmovoice-fabric-26.3-2.2.0-beta.4.jar"
+hash-format = "sha512"
+hash = "1fb2246b22ede4c2771521c7c3e84ce36e0bd8c3ed6c3621fbabd3b0970102e0f12b43dc50e0a2cdf76e5169674aa0e9e14872553564ba29a0dc53984e482a9c"
+
+[update]
+[update.modrinth]
+mod-id = "1bZhdhsH"
+version = "9W3CZypi"
