@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9612c10e2a0eb47a102a627fb481b789f5a057461a785a1dc0d845dd72cea85b"
+hash = "bf09a09742de32baf0dd03e1fa0f114faa03b3f354add115d181223fbb70278f"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

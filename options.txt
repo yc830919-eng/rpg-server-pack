@@ -1,2 +1,2 @@
-guiScale:2
+guiScale:4
 tutorialStep:none
