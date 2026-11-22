@@ -1,69 +1,60 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "54ce2b42a4a3a2ce500864f2502d078bce0511a96b8764970a8f593cc2467e44"
-
-[[files]]
 file = "config/iris.properties"
-hash = "0418995755497ff486bd19453c141430c5f6f12a63c2bdb86dd349bcff10069a"
-preserve = true
+hash = "db67c279fca4824c58a4f93c2cc0862b6ba5a6eb25118d67690e43a1885151dc"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
 hash = "f7051739fcc2f230a94416c6865864d15ef2c49621c4ae4a1ebb4ea99e9aea16"
-preserve = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
 hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
-preserve = true
 
 [[files]]
 file = "config/xaerohud.txt"
 hash = "111b2d561ee8b1c01f0c72f1dfc393c5f477f8bc9416379dd6664cf16c387370"
-preserve = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fb72a70cb53c63f1da4520c25c8a7d806cc1c733e827016615623b65d751852d"
+hash = "b2f2ef63febe17f277635827ca474e1aeae321e8a82bef78942116f95d00250a"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
+hash = "e03fc0b0c151c5c072ac399d27b5c4268a093c41be73f3b1578d050bb49211f3"
 metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "98bf81855604f95095e2dddd7212a32b240c914f1fea6ee82200b79481aa1e5f"
+hash = "5411970da08be472ccfe18fb0636f6933ef38405081d0b77ee423b157aef143a"
 metafile = true
 
 [[files]]
 file = "mods/rpg-client.jar"
-hash = "ed0b126dfd06eb2e6c4d17c04720e95c5c003e0805f0ea7ef3ac1e20c83a1aad"
+hash = "a6ed507aba7909c74ccdee26e6622e84dbee28230a0d8b82eadd965f7af375a4"
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "54d699d9ba85bb08b9fd3696a11c7449ea1175a118805855143e1c88fa54aa6b"
+hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "14e96b12f10a1f2920cdcec89b4d16e452bec4689e117b38b4c0f759145aaf7f"
+hash = "8c17a4f1d4fbf5f04383358a0993aaa9a756a544fc979fe549425fa36bb4820c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "cbb9808546870ecb0a7befebb14df0a11383b1aeafd175a77a0fc4caee44c6f2"
+hash = "d96811ad169e1bd0c06cb83864aa35110fa1704f2e1a62496c351633275c6a7e"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "624a8e4974cae64389b28e8046c3cc18a94e609a02df63f5397ec2ca0c0f7ee8"
-preserve = true
+hash = "9612c10e2a0eb47a102a627fb481b789f5a057461a785a1dc0d845dd72cea85b"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "507cb3963240110bc71ed7c75cac1682e66d3609536b0bc5ef90a01db3cce21f"
+hash = "0d32bfe86e50ee8f5533cf53f1f1a3597f34df2ae2408b120f96bc4bbc723706"
 metafile = true
