@@ -1,12 +1,12 @@
 name = "RPG Server Pack"
 author = "YC830"
-version = "2.20.0"
+version = "2.20.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "16958912da7f06b4caddb4f93c5f66f4c988bde748dee26066c024f5ce9c71a8"
+hash = "99c0902eb8cc7a3feec88dbb99ac45eb0b0785a845aff72db123dadc1a272081"
 
 [versions]
 fabric = "0.19.5"
