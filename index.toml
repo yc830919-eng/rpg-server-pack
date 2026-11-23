@@ -6,7 +6,11 @@ hash = "db67c279fca4824c58a4f93c2cc0862b6ba5a6eb25118d67690e43a1885151dc"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "f7051739fcc2f230a94416c6865864d15ef2c49621c4ae4a1ebb4ea99e9aea16"
+hash = "75160c182fb59891f9064bbb3f77acc29717c2da0270449bc2ed1c340ad66cfe"
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "8a4588ed642df84f83053252a5422642176540e64c01200d241f79bc6a233696"
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
@@ -33,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpg-client.jar"
-hash = "329f33eac982b2b47f1efb41488fc44d1228212e53f1b4e345cc806eee1732b7"
+hash = "da6ba510738da33096b46f2e0f4d563f4d88c6fc5544ddb12e2da8bcf756007c"
 
 [[files]]
 file = "mods/sodium.pw.toml"
