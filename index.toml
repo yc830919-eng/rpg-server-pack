@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpg-client.jar"
-hash = "87aa114d82c88140d1e1fb9ac33a805c9dfbaff56647ef8229b0ecf4ee217590"
+hash = "21ab6ed1084f592d9d01ab9f19868c5727c634428aa01c9a9d8ec1f197ab1a5e"
 
 [[files]]
 file = "mods/sodium.pw.toml"
