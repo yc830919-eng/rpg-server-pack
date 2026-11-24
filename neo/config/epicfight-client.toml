@@ -73,13 +73,13 @@ provider = "NULL"
 		stamina_bar_x_base = "RIGHT"
 		#Allowed Values: TOP, BOTTOM, CENTER
 		stamina_bar_y_base = "BOTTOM"
-		weapon_innate_x = 42
+		weapon_innate_x = -500
 		weapon_innate_y = 48
 		#Allowed Values: LEFT, RIGHT, CENTER
 		weapon_innate_x_base = "RIGHT"
 		#Allowed Values: TOP, BOTTOM, CENTER
 		weapon_innate_y_base = "BOTTOM"
-		passives_x = 70
+		passives_x = -500
 		passives_y = 36
 		#Allowed Values: LEFT, RIGHT, CENTER
 		passives_x_base = "RIGHT"
