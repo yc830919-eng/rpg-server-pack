@@ -10,7 +10,7 @@ hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "169d0130b89edf97699cf91a4854165db818a55508fd1d1e40aa0eacb30a35e6"
+hash = "0ec9b98f4216b1f6a70f80cf117da92aac764f6f7e6386ed7a03b1f34ef64646"
 
 [[files]]
 file = "config/xaerohud.txt"
