@@ -235,6 +235,11 @@ hash = "32c14f66285e2c74ae7f4db18028c9c365fd289beb1fb9c636d96ec412d94286"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "285f05f45b4c0d11ea940db0e9389f20b623c1726d7dd4cce588982728ba4cc4"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
@@ -256,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpg-neo.jar"
-hash = "a5e1ae255eaacb9e9cec3b4ccca0e0e1a672e2e148c29af75c07ced0ce61f35f"
+hash = "a9bace23beefab5460a4242c267e958f9aa560d86f193d1edc5fa2d75f79d988"
 
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
