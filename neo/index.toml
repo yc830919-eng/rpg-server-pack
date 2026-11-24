@@ -106,6 +106,11 @@ hash = "7479999fea2b7ff15ccec699d6c0158a4a89cc27ce748b58fe68e06944d6da93"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "ee66efb9eae03c2f060086e26c9d9e4a9fbece4cd1f8fc92dfbf2771f3bad296"
+metafile = true
+
+[[files]]
 file = "mods/epic-fight-invincible-lib.pw.toml"
 hash = "679c9265f9a002834ec0972c8b2b95701e31870d3183e3de80b6963b302be08a"
 metafile = true
@@ -247,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpg-neo.jar"
-hash = "e98f61638c78ad50a9ab53da651ce257d3b8f6179b8fad98df6c2403ce5797f7"
+hash = "692265893c004cab117289e66e10296d0e5fd7283808837d54866e33ee50cd11"
 
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
