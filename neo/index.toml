@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/epicfight-client.toml"
+hash = "fea9482203871e5256cb33e83ef5c9a8f10bb65ffe7aa0dc46cc6b57903aed7d"
+
+[[files]]
 file = "config/iris.properties"
 hash = "464e8110082b13a13e811b170f1cd85662b6e79d57e0fa8a247676828b908616"
 
