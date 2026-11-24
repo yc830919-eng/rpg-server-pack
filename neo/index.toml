@@ -5,6 +5,10 @@ file = "config/iris.properties"
 hash = "464e8110082b13a13e811b170f1cd85662b6e79d57e0fa8a247676828b908616"
 
 [[files]]
+file = "config/irons_spellbooks-client.toml"
+hash = "17615997d1d9c3cd66cd91731401664fec4e57a238212bc8cde527a37d090977"
+
+[[files]]
 file = "config/jade/jade.json"
 hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
 
