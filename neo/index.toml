@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/iris.properties"
+hash = "464e8110082b13a13e811b170f1cd85662b6e79d57e0fa8a247676828b908616"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "169d0130b89edf97699cf91a4854165db818a55508fd1d1e40aa0eacb30a35e6"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "111b2d561ee8b1c01f0c72f1dfc393c5f477f8bc9416379dd6664cf16c387370"
+
+[[files]]
 file = "mods/aces-spell-utils.pw.toml"
 hash = "74861362fa4cd4d10b2d9f07937526e00c8a2c978ef548f5a7037ba4715261f2"
 metafile = true
@@ -272,4 +284,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "1496ffa30020676979e65921b91e583a2fdc77e50001e2ed55f99edf1a0ae880"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "5c17de8161b06a10dbd8e59645e7d7edfc583054009b5a787086d5f4fb1a77f1"
 metafile = true
