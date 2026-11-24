@@ -1,0 +1,13 @@
+name = "[TACZ Addons] Daffa's Arsenal"
+filename = "daffasarsenal-3.8.0.2_neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/11K9aTv9/versions/l77ZM81L/daffasarsenal-3.8.0.2_neoforge.jar"
+hash-format = "sha512"
+hash = "ab94891fd942dc9d4444c9ceb18949836cdab531a90b462b2f376df536fc5bbbac403854dd8e829ad0311aac661bf317184ef8ccb69bbfe713b3b012a2c98e49"
+
+[update]
+[update.modrinth]
+mod-id = "11K9aTv9"
+version = "l77ZM81L"

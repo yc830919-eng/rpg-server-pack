@@ -1,0 +1,13 @@
+name = "Paladin Spells - Iron's Spells Addon"
+filename = "paladin_spells-1.21.1-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JnNkkyFG/versions/QnpXkWUJ/paladin_spells-1.21.1-1.1.4.jar"
+hash-format = "sha512"
+hash = "3f4ff90c210f5cdb19b94f2af80e01b63c5bc10ed3500640e8d45c8b01c50200e6bb41b8295037ed8d5df7b41d8bc36292c040cf174c54e73111d20ca6e28e23"
+
+[update]
+[update.modrinth]
+mod-id = "JnNkkyFG"
+version = "QnpXkWUJ"
