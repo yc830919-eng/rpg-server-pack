@@ -111,6 +111,14 @@ hash = "9ada207ec0936aeb97eb208d9a927f256f1412ea57b289ee67a9971597128a8d"
 metafile = true
 
 [[files]]
+file = "mods/deco_storage-4.0909-neoforge-1.21.1.jar"
+hash = "e01ea5a9013902f6a787208c573de11228bc96e0a26b2c438d5fd3b34e83bf0d"
+
+[[files]]
+file = "mods/decorative_core-2.0705-neoforge-1.21.1.jar"
+hash = "1bbce864f2ad6c24771402f0d49179bec4173f10bb01bfd48a1647631af92edf"
+
+[[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
 hash = "e405162d464600b0ee02243dbbc03294738057eea30a3e48975f88fdd104e322"
 metafile = true
@@ -294,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpg-neo.jar"
-hash = "7651cb51f86591a6f91024ca15b93f091db40b6c4c9ff7fb5576465b34f5b438"
+hash = "b1f5aef14c4ec6d45e3278f59df17b568175e2adafca5ec87de3005c4c9fb3d5"
 
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
