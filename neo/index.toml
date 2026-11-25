@@ -33,9 +33,17 @@ file = "config/xaerohud.txt"
 hash = "111b2d561ee8b1c01f0c72f1dfc393c5f477f8bc9416379dd6664cf16c387370"
 
 [[files]]
+file = "mods/ThisRocks-1.21-1.8.0.jar"
+hash = "d6c1e708012be0d8e9e31724cb5f970d87e96d0b1cf377ae584c6d59f961ee75"
+
+[[files]]
 file = "mods/aces-spell-utils.pw.toml"
 hash = "74861362fa4cd4d10b2d9f07937526e00c8a2c978ef548f5a7037ba4715261f2"
 metafile = true
+
+[[files]]
+file = "mods/animal_feeding_trough-1.1.2+1.21-neoforge.jar"
+hash = "236e7b7f789a08e5393c0b1570ffe4e77f4719cc818a0b41f0454850c1e5ffe2"
 
 [[files]]
 file = "mods/another-furniture.pw.toml"
@@ -148,6 +156,10 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/framework-neoforge-1.21.1-0.13.11.jar"
+hash = "429ea90a162d7c25c1463ee60979e4d7b1ddb525d9384a3a2a2f45d70bda03f5"
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0a933e834f0f816c326d0abeafaf1aa60310e2a5bc89bc67826cd1ffffce19c9"
 metafile = true
@@ -156,6 +168,10 @@ metafile = true
 file = "mods/handcrafted.pw.toml"
 hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
+
+[[files]]
+file = "mods/hearthwood-neoforge-1.21.1-1.2.0.jar"
+hash = "18ff377ef07c432cf01e12f66127d72ef6eb24747a0920d9a3cd1a415b6b9053"
 
 [[files]]
 file = "mods/iceberg.pw.toml"
@@ -263,6 +279,10 @@ hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
 metafile = true
 
 [[files]]
+file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
+hash = "953a7840261eb79959769a97caa60cba2ee141700a4cbe208825268327136bdf"
+
+[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "98ae27f0381f08ada1be2336d2afc106d8cfa99057e6262556570e5877d9b094"
 metafile = true
@@ -274,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpg-neo.jar"
-hash = "fb4d770d578057ee769b216dc9cc9fd36d31e5254e2b65a496a1eb1c591cfac9"
+hash = "db46e69ff27f6242661cdc486b845dc1aa3e29c8cea9c80523a7b6bfb2c95937"
 
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
