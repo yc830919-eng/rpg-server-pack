@@ -14,7 +14,7 @@ hash = "17615997d1d9c3cd66cd91731401664fec4e57a238212bc8cde527a37d090977"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
+hash = "b54c47c3ceb174b0f1a0a939275da833fd3903ab9676d60667336c01ffc0d1bf"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpg-neo.jar"
-hash = "2163f16f7fd3bdcb3eafdfb9587933e29da54b65e8746404c8ec41b3380971ba"
+hash = "51773f54eb0bd59cad70de06d690d864796321cabf035f30b3642233d17e1b67"
 
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
