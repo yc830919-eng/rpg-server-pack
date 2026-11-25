@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/block_factorys_bosses-client.toml"
+hash = "a9aed9c05d7ad2be6d6155769bb633cb1a4f5097e2f6bb03a53bdde3b9b57fdf"
+
+[[files]]
 file = "config/epicfight-client.toml"
 hash = "ea38569fef8cdafbf82adb9b85603e9e540d63f0863b262a3aeedf81c9f0495d"
 
