@@ -18,7 +18,7 @@ hash = "b54c47c3ceb174b0f1a0a939275da833fd3903ab9676d60667336c01ffc0d1bf"
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
-hash = "0ec9b98f4216b1f6a70f80cf117da92aac764f6f7e6386ed7a03b1f34ef64646"
+hash = "655349d541e7365ed96df88511b921c9a5e96d75bba31090ee52a8c302d1ed87"
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
