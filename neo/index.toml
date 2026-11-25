@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpg-neo.jar"
-hash = "ff93b32d8198761166f48e6434b5c8d33a20c0fce42ef6dad9073818ea7e66ed"
+hash = "75a7ac850e8e8f1a755fd15347e81477d29e0545ea316bae45169e37747b76cd"
 
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
